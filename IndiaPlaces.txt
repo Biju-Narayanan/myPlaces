@@ -1,4 +1,18 @@
 I live in India
 India has many states
+<<<<<<< Upstream, based on origin/master
 --------------------------
 in the mean while someone changed the remore repository
+=======
+from amongst the states i have lived mostly in 
+Maharashtra
+Kerala
+Following places i lived
+Palakkad -- my hometown
+Mumbai -- my upbringing
+-----------------------
+Palakkad
+-----------------------
+Chittur
+Alathur
+>>>>>>> c7b4307 Palakkad - Alathur
